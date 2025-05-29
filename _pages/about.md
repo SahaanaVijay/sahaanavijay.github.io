@@ -14,6 +14,6 @@ Outside of physics, I am usually off the grid hiking in the mountains or travell
 
 I always welcome interesting conversations and new ideas — whether it's about research, side-quests or anything in between — don’t hesitate to get in touch!
 
-[![koch](https://github.com/user-attachments/assets/bf712572-353c-4455-a46b-6dfeb949dec5)](https://en.wikipedia.org/wiki/Koch_snowflake)
+[![image](https://github.com/user-attachments/assets/2fd0d337-d41b-41b5-b2b0-ca7f4547a6c3)](https://en.wikipedia.org/wiki/Koch_snowflake)
 
 <sup><sub>*Click on the image to read more about some pretty math 🔎*</sub></sup>
