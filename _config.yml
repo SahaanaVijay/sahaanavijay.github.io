@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Sahaana Vijay"
   pronouns         : "she/her"
-  bio              : "Hello! I’m a senior at Ashoka University majoring in physics, with a concentration in astronomy. I'm interested in computational physics, nonlinear dynamics and chaos, machine learning, and complexity science. However, I also dabble in astronomy occasionally."
-  location         : "Bengaluru, India"
-  employer         : "Red Brick University"
+  bio              : Undergraduat Physics Student
+  location         : "Ashoka University"
+  employer         : # URL
   uri              : # URL
   email            : "sahaana.vijay_ug25@ashoka.edu.in" 
 
