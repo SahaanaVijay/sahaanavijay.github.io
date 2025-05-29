@@ -16,4 +16,4 @@ I always welcome interesting conversations and new ideas — whether it's about 
 
 [![image](https://github.com/user-attachments/assets/85d5cfc2-123f-4cb5-b4be-dc4f1310a3dd)](https://en.wikipedia.org/wiki/Koch_snowflake)
 
-###### *Click on the image to read more about some pretty math 🔎*
+<sup><sub>*Click on the image to read more about some pretty math 🔎*</sub></sup>
