@@ -14,4 +14,4 @@ Outside of physics, I am usually off the grid hiking in the mountains or travell
 
 I always welcome interesting conversations and new ideas — whether it's about research, side-quests or anything in between — don’t hesitate to get in touch!
 
-![image](https://github.com/user-attachments/assets/85d5cfc2-123f-4cb5-b4be-dc4f1310a3dd)
+[![image](https://github.com/user-attachments/assets/85d5cfc2-123f-4cb5-b4be-dc4f1310a3dd)](#)
