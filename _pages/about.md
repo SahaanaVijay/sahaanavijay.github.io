@@ -12,7 +12,7 @@ I have previously worked with/under the supervision of Prof. Somendra Bhattachar
 
 Outside of physics, I am usually off the grid hiking in the mountains or travelling, working on my next digital art piece or binge-reading books.
 
-I always welcome interesting conversations and new ideas, whether it's about research, side-quests or anything in between, feel free to reach out!
+I always welcome interesting conversations and new ideas – whether it's about research, side-quests or anything in between – feel free to reach out!
 
 [![image](https://github.com/user-attachments/assets/2fd0d337-d41b-41b5-b2b0-ca7f4547a6c3)](https://en.wikipedia.org/wiki/Koch_snowflake)
 
